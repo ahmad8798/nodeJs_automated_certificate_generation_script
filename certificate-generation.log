@@ -1,14 +1,14 @@
-[2025-03-08T05:39:33.006Z] [INFO] Started certificate generation process
-[2025-03-08T05:39:33.026Z] [INFO] Found 7 recipients in CSV file
-[2025-03-08T05:39:33.270Z] [INFO] Generated certificate for John Doe: certificates\Certificate_john_doe.pdf
-[2025-03-08T05:39:33.392Z] [INFO] Generated certificate for Jane Smith: certificates\Certificate_jane_smith.pdf
-[2025-03-08T05:39:33.450Z] [INFO] Generated certificate for Alexander Johnson-Williams: certificates\Certificate_alexander_johnson_williams.pdf
-[2025-03-08T05:39:33.506Z] [INFO] Generated certificate for Li Wei: certificates\Certificate_li_wei.pdf
-[2025-03-08T05:39:33.553Z] [INFO] Generated certificate for Maria González Rodríguez: certificates\Certificate_maria_gonz_lez_rodr_guez.pdf
-[2025-03-08T05:39:33.609Z] [INFO] Generated certificate for Sam: certificates\Certificate_sam.pdf
-[2025-03-08T05:39:33.664Z] [INFO] Generated certificate for Timothy Bartholomew Montgomery III: certificates\Certificate_timothy_bartholomew_montgomery_iii.pdf
-[2025-03-08T05:39:33.668Z] [INFO] Processed 7 certificates with 0 errors
-[2025-03-08T05:39:33.671Z] [INFO] Certificate generation completed
-[2025-03-08T05:39:33.674Z] [INFO] Total recipients: 7
-[2025-03-08T05:39:33.675Z] [INFO] Successfully processed: 7
-[2025-03-08T05:39:33.676Z] [INFO] Errors: 0
+[2025-03-08T06:19:30.216Z] [INFO] Started certificate generation process
+[2025-03-08T06:19:30.224Z] [INFO] Found 7 recipients in CSV file
+[2025-03-08T06:19:30.306Z] [INFO] Generated certificate for John Doe: certificates\Certificate_john_doe.pdf
+[2025-03-08T06:19:30.341Z] [INFO] Generated certificate for Jane Smith: certificates\Certificate_jane_smith.pdf
+[2025-03-08T06:19:30.362Z] [INFO] Generated certificate for Alexander Johnson-Williams: certificates\Certificate_alexander_johnson_williams.pdf
+[2025-03-08T06:19:30.387Z] [INFO] Generated certificate for Li Wei: certificates\Certificate_li_wei.pdf
+[2025-03-08T06:19:30.414Z] [INFO] Generated certificate for Maria González Rodríguez: certificates\Certificate_maria_gonz_lez_rodr_guez.pdf
+[2025-03-08T06:19:30.431Z] [INFO] Generated certificate for Sam: certificates\Certificate_sam.pdf
+[2025-03-08T06:19:30.441Z] [INFO] Generated certificate for Timothy Bartholomew Montgomery III: certificates\Certificate_timothy_bartholomew_montgomery_iii.pdf
+[2025-03-08T06:19:30.445Z] [INFO] Processed 7 certificates with 0 errors
+[2025-03-08T06:19:30.447Z] [INFO] Certificate generation completed
+[2025-03-08T06:19:30.448Z] [INFO] Total recipients: 7
+[2025-03-08T06:19:30.449Z] [INFO] Successfully processed: 7
+[2025-03-08T06:19:30.450Z] [INFO] Errors: 0

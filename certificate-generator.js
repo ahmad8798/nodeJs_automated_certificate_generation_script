@@ -20,20 +20,20 @@ const CONFIG = {
       fontName: StandardFonts.TimesRomanBold,
       minFontSize: 24 // Minimum font size for long names
     },
-    course: {
-      x: 300,
-      y: 350,
-      fontSize: 24,
-      color: rgb(0.3, 0.3, 0.3), // Dark gray
-      fontName: StandardFonts.TimesRoman
-    },
     date: {
-      x: 300,
-      y: 250,
+      x: 670,
+      y: 260,
       fontSize: 18,
       color: rgb(0.3, 0.3, 0.3), // Dark gray
       fontName: StandardFonts.TimesRoman
-    }
+    },
+    instructor: {
+        x: 150,
+        y: 260,
+        fontSize: 18,
+        color: rgb(0.3, 0.3, 0.3), // Dark gray
+        fontName: StandardFonts.TimesRoman
+      }
   },
   logging: {
     enabled: true,
@@ -115,9 +115,8 @@ async function generateCertificate(recipient) {
     
     // Add recipient details to the PDF
     await drawText(page, recipient.name, CONFIG.text.name);
-    await drawText(page, recipient.course, CONFIG.text.course);
     await drawText(page, recipient.date, CONFIG.text.date);
-    
+    await drawText(page, "Sanket Dhokte", CONFIG.text.instructor);
     // Save the PDF
     const pdfBytes = await pdfDoc.save();
     
